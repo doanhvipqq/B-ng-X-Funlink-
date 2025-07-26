@@ -4,7 +4,7 @@
 // @version      3.1.0
 // @description  Tự động bypass funlink.io với nhiều loại nhiệm vụ khác nhau
 // @require      https://raw.githubusercontent.com/phatnottaken51/phatnottaken/refs/heads/main/funlink.js
-// @author       PhatNotTaken
+// @author       Bóng X
 // @match        https://funlink.io/*
 // @grant        GM_xmlhttpRequest
 // @grant        GM_addStyle
