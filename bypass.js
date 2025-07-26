@@ -9,5 +9,5 @@
 // @grant        GM_xmlhttpRequest
 // @grant        GM_addStyle
 // @run-at       document-start
-// @icon         https://cdn.discordapp.com/avatars/1001691686721835090/27fe01cea4a0e39c19051ed609ced02b.png
+// @icon         https://photos.app.goo.gl/emmpDr7sMF3aSqBq6
 // ==/UserScript==
