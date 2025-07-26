@@ -9,5 +9,5 @@
 // @grant        GM_xmlhttpRequest
 // @grant        GM_addStyle
 // @run-at       document-start
-// @icon         https://photos.app.goo.gl/emmpDr7sMF3aSqBq6
+// @icon         https://drive.google.com/file/d/1aVrmWqnN4pzt7C-71OBanumf18iBTZxs/view?usp=drivesdk
 // ==/UserScript==
